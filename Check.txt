@@ -1,1 +1,1 @@
-this is the content that resolved merge conflict
+this is the content that resolved merge conflict check
