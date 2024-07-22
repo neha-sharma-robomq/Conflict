@@ -1,1 +1,1 @@
-data from master branch
+this is the content that resolved merge conflict
