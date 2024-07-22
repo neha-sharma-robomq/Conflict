@@ -1,2 +1,1 @@
-hello  let me check
-merge conflict
+data from master branch
